@@ -27,10 +27,7 @@
   <img src="https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=react-query&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp
+</a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>&nbsp
