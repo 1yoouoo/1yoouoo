@@ -50,8 +50,4 @@
 <br />
 <br />
 
-<div align="left">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=1yoouoo&theme=flat&column=7)](https://github.com/1yoouoo/)
-
 ---
